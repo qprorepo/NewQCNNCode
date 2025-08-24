@@ -45,26 +45,13 @@ pip install qiskit scikit-learn pytorch
 Installation
 Clone the repository:
 
-git clone https://github.com/your-username/HQCNN.git
-
-Navigate to the project directory:
-
 cd HQCNN
 
 Running an Experiment
 python train.py --model bqcnn --dataset mnist --epochs 50
 
-📄 Citation
-If you use this research in your work, please cite our paper:
 
 @article{your_team_2025_hqcnn,
   title={Towards Next-Generation Hybrid Quantum Convolutional Neural Networks: A Systematic Architecture},
-  author={Author 1 and Author 2 and Author 3},
-  journal={Journal of Quantum Information},
-  year={2025},
-  volume={XX},
-  pages={XXX-XXX}
+  author={Author 1}
 }
-
-📜 License
-This project is licensed under the MIT License - see the LICENSE.md file for details.
